@@ -21,6 +21,8 @@
 - Nguồn: Pin Li-po 7.4V hoặc nguồn rời cho động cơ để đảm bảo hiệu suất.
 
 ## 🔌 Sơ đồ kết nối nhanh (Arduino)
+** lưu ý **: là sơ đồ này ban đầu mình dùng hc-05 nhưng sau đó mình đổi sang tay cầm ps2 nên code mình cũng có đổi.
+![Sơ đồ mạch mạch Fritzing](z8009327809956_267ca2a1ecb9935417df32d17a05d8e4.jpg)
 
 | Chức năng | Chân (Pin) |
 | :---: | :---: |
