@@ -48,5 +48,8 @@
 - **Nút Triangle:** Đóng/mở kẹp.
 - **Nút Cross:** Kích hoạt cơ chế cờ (Flag).
 - **Joystick (Analog):** Điều khiển các khớp cánh tay và servo trung tâm.
+## kết quả
+<video src="" width="100%" controls></video>
+
 
 
