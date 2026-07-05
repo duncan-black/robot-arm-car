@@ -49,7 +49,7 @@
 - **Nút Cross:** Kích hoạt cơ chế cờ (Flag).
 - **Joystick (Analog):** Điều khiển các khớp cánh tay và servo trung tâm.
 ## kết quả
-![kết quả](z8009327809956_267ca2a1ecb9935417df32d17a05d8e4.jpg)
+![kết quả](437011754_971124387884681_775399797279941732_n.jpg)
 
 
 
